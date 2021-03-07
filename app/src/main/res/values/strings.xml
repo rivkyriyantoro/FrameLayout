@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FrameLayout</string>
+    <string name="nim">Nim Anda</string>
+    <string name="nama">Nama | Kelas </string>
+</resources>
